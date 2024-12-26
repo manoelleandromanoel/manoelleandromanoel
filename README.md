@@ -3,11 +3,6 @@
 I'm Leandro
 
 ## GitHub Stats 🖥️
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=manoelleandromanoel&count_private=true&show_icons=true)
-<br />
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=manoelleandromanoel&hide_border=true)
-<br />
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelleandromanoel&layout=compact&count_private=true)
 
 📫 How to reach me:
